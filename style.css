@@ -1,7 +1,12 @@
 html{
 	background-color: black;
+	font-family: Arial;
 }
 
 .body{
 	text-align: center;
+}
+p{
+	color: white;
+	text-decoration: none;
 }
